@@ -8,9 +8,6 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects and keep Coding
 - ⚡ Fun fact: I love to Play Games and listen musics 
 
-### Spotify Playing 🎧
-[<img src="https://open.spotify.com/playlist/1qvW13XhfMMZMlzQx362HR?si=n1JoCw7NS6Ka9X-K6th7mg" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/lq96h3k614ywm4dobw0g3lt3f?si=aMWQVZBfQqeAOyPfx8Aakg)
-
 ### Connect with me:
 
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
