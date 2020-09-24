@@ -1,6 +1,5 @@
 ### Hi there, I'm HarshKoli - aka [HYPE] 👋
 
-
 ## I'm a  Developer!
 
 - 🔭 I’m currently working on a Andriod Development
@@ -19,3 +18,7 @@
 [twitter]: https://twitter.com/harshkoli997
 [instagram]: https://www.instagram.com/harshkoli997/?hl=en
 [linkedin]: https://www.linkedin.com/in/harshkoli997/
+
+### Activity
+
+![HarshKoli's github stats](https://github-readme-stats.vercel.app/api?username=harshkoli201&count_private=tru&show_icons=true&hide=contribs,issues)
