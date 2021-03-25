@@ -19,4 +19,4 @@
 
 ### Activity
 
-![Harsh's's github stats](https://github-readme-stats.vercel.app/api?username=harshkoli&show_icons=true&hide_border=true&theme=dark)
+![Harsh's's github stats](https://github-readme-stats.vercel.app/api?username=harshkoli201&show_icons=true&hide_border=true&theme=dark)
