@@ -2,10 +2,8 @@
 
 ## I'm a  Developer!
 
-- I’m currently working on a Andriod Development
-- I’m currently learning everything 🤣
+- I’m currently working on a Andriod Development N Flask 
 - 2020 Goals: Contribute more to Open Source projects and keep Coding
-- I love to Play Games and listen musics 
 
 ### Connect with me:
 
