@@ -3,7 +3,7 @@
 ## I'm a  Developer!
 
 - I’m currently working on a Andriod Development N Flask 
-- 2020 Goals: Contribute more to Open Source projects and keep Coding
+- 2021 Goals: Contribute more to Open Source projects and keep Coding
 
 ### Connect with me:
 
