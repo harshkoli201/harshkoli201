@@ -2,7 +2,7 @@
 
 ## I'm a  Developer! 💻
 
-- I’m currently working on a Andriod Development N Flask 
+- I’m currently Learning Andriod Development N Flask 
 - 2021 Goals: Contribute more to Open Source projects and keep Coding
 
 ### Connect with me:
