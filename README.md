@@ -1,4 +1,4 @@
-### Hi there, I'm HarshKoli - aka [HYPE] 👋
+### Hello there, I'm HarshKoli - aka [HYPE] 👋
 
 ## I'm a  Developer! 💻
 
