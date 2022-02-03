@@ -4,7 +4,7 @@
 
 - I’m currently Learning Andriod Development N Flask 
 - Pursuing Degree in Data Engineering 
-- 2021 Goals: Contribute more to Open Source projects and keep Coding
+- 2022 Goals: Contribute more to Open Source projects and keep Coding
 - Co-Founder and Lead Programmer at TreeTracker App
 - Learning Ethical Hacking 
 
