@@ -6,7 +6,6 @@
 - Pursuing Degree in Data Engineering 
 - 2022 Goals: Contribute more to Open Source projects and keep Coding
 - Co-Founder and Lead Programmer at TreeTracker App
-- Learning Ethical Hacking 
 
 TreeTracker Link 🌱 :- 
 
