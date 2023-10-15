@@ -1,8 +1,8 @@
 ### Hello there, I'm HarshKoli - aka [HYPE] 👋
 
-## I'm a  Developer! 💻
+## I'm a  Analyst! 💻
 
-- I’m Just Upgrading skills in Flutter
+- I’m Just Upgrading skills in Data Analysis
 - Pursuing Degree in Data Engineering 
 - 2023 Goals: Contribute more to Open Source projects and keep Coding
 - Co-Founder and Lead Programmer at TreeTracker App
