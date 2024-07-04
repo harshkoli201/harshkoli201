@@ -1,6 +1,6 @@
 ### Hello there, I'm HarshKoli - aka [HYPE] 👋
 
-## I'm a  Analyst! 💻
+## I'm an  Data analyst! 💻
 
 - I’m Just Upgrading skills in Data Analysis
 - Pursuing Degree in Data Engineering 
